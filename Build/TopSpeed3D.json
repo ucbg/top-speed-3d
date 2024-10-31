@@ -1,0 +1,12 @@
+{
+"companyName": "mhdhammod",
+"productName": "Top Speed 3D",
+"dataUrl": "TopSpeed3D.data.unityweb",
+"wasmCodeUrl": "TopSpeed3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "TopSpeed3D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
